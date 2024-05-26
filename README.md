@@ -8,6 +8,9 @@ This repository contains a project for a kids' courses website built using React
 - **SCSS:** A CSS preprocessor for writing cleaner and more efficient styles.
 - **Axios:** A promise-based HTTP client for the browser and Node.js.
 
+
+## Project Structure
+
 - `src/` # Source files
   - `components/` # Reusable components
     - `ui/` # Reusable UI components
