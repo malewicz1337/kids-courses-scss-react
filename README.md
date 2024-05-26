@@ -11,7 +11,7 @@ This repository contains a project for a kids' courses website built using React
 kids-courses-scss-react/
 ├── src/                  # Source files
 │   ├── components/       # Reusable components
-│   ├── ├── ui/           # Reusable UI components
+│   │   ├── ui/           # Reusable UI components
 │   ├── api/              # API services (Axios)
 │   ├── styles/           # SCSS styles
 │   ├── App.tsx           # Root component
